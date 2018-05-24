@@ -1,3 +1,5 @@
+:page_with_curl: Dies ist nur ein Beispieltext :page_with_curl:
+
 Sehr geerte Damen und Herren bei $Unternehmen
 
 Bei einem Besuch auf ihrer Website $url / Bei der Benutzung ihres Programmes $name sind mir einige / ist mir eine Lücke aufgefallen, von der Ich denke, dass sie geschlossen werden sollte.

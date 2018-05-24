@@ -6,7 +6,7 @@ Because the content is german, the rest of README.md will be too.
 **Sicherheitshinweise an Unternehmen**
 
 Dieses Repository versucht es euch zu vereinfachen, Meldungen über Sicherheitlücken und Datenschutzlecks an Unternehmen oder öffentliche Stellen zu melden.
-Um allgemeine Hinweise zu bekommen, empfehle ich einen Blich in Hinweise.md
+Um allgemeine Hinweise zu bekommen, empfehle ich einen Blick in Hinweise.md
 
 Wer auch Erfahrung dabei gesammelt hat, ist herzlich eingeladen und aufgefordert, den Inhalt dieses Repositories an seine Erfahrungen anzupassen
 

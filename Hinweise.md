@@ -8,7 +8,7 @@ Ich empfehle, Lücken als erstes per Mail zu melden, dabei würde ich auf folgen
 * hilfsbereit (Vermittelt das Gefühl, dass man tatsächlich an einer Lösung interessiert ist)
 * vorsichig (Alles was ihr schreibt kann gegen euch verwendet werden, gebt niemals zu, dass ihr dezentrale Sicherheitskopien genutzt, ein Programm dekompiliert odder irgendwelche Daten heruntergeladen habt)
         
-Es ist durchaus eine sinvolle Möglichkeit, in der ersten Mail an ein Unternehmen nicht genau in die Details zu gehen um damit eine Antwort des Unternehmenes zu forcieren, da man dann A. einen persönlichen Ansprechpartner hat und B. eine erste Einschätzung der Reaktion des Unternehmenes hat.
+Es ist durchaus eine sinnvolle Möglichkeit, in der ersten Mail an ein Unternehmen nicht genau in die Details zu gehen um damit eine Antwort des Unternehmenes zu forcieren, da man dann A. einen persönlichen Ansprechpartner hat und B. eine erste Einschätzung der Reaktion des Unternehmenes hat.
     
 Etwaige Androhungen von Konsequenzen für das Unternehmen würde ich unterlassen und als letztes Mittel aufheben.
     
